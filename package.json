@@ -1,0 +1,27 @@
+{
+  "name": "react_rich_text",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "firebase": "^9.13.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.38.0",
+    "react-router-dom": "^6.4.2",
+    "suneditor": "^2.44.3",
+    "suneditor-react": "^3.4.1",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.22",
+    "@types/react-dom": "^18.0.7",
+    "@vitejs/plugin-react": "^2.2.0",
+    "vite": "^3.2.0"
+  }
+}
